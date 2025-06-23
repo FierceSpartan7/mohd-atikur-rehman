@@ -1,5 +1,3 @@
-# mohd-atikur-rehman
-📊 Aspiring Data Analyst | SQL 5⭐ HackerRank | Deloitte Analytics Intern | Python • Power BI • Excel | Data Storytelling | Open to Opportunities
 
 <h1 align="center">Hi there, I'm Mohd Atikur Rehman 👋</h1>
 <h3 align="center">📊 Aspiring Data Analyst | SQL 5⭐ HackerRank | Deloitte Analytics Intern | Python • Power BI • Excel | Data Storytelling | Open to Opportunities</h3>
