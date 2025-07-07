@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi there, I'm Mohd Atikur Rehman 👋</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL 5⭐ HackerRank | Deloitte Analytics Intern | Python • Power BI • Excel | Data Storytelling | Open to Opportunities</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Microsoft & Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Data Storytelling | Open to Opportunities</h3>
 
 ---
 
@@ -9,7 +8,8 @@
 🎓 I'm a Data Analyst Fresher with strong foundations in **SQL, Python, Excel**, and **Data Visualization**  
 📌 Passionate about transforming data into insights that drive decision-making  
 ✅ Completed 100+ SQL problems and earned a **5-Star Gold Badge on HackerRank**  
-📈 Hands-on experience through certifications and virtual internships in real-world scenarios  
+📈 Hands-on experience through certifications and virtual internships in real-world business scenarios  
+📚 Recently completed **Career Essentials in Data Analysis by Microsoft & LinkedIn Learning** – built practical skills in Excel, analytical thinking, and business data storytelling  
 💡 Currently looking for full-time/entry-level **Data Analyst** opportunities
 
 ---
@@ -30,8 +30,9 @@
 - 🎖️ **SQL (Basic)** – HackerRank [Credential ID: 81D01AACDE0C](https://www.hackerrank.com/certificates/81d01aacde0c)  
 - ⭐ **5-Star Gold SQL Badge** – [HackerRank Profile](https://www.hackerrank.com/profile/atikurrehman96)  
 - 💼 **Data Analytics Virtual Internship** – Deloitte (Forage)  
+- 📊 **Career Essentials in Data Analysis** – Microsoft & LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/3b48de0281dcaa5ac21a87deda937e53de42918268d8541a1e9404f292bda01b)  
 - 🎓 **Postgraduate Program in Data Science** – Intellipaat  
-- 🧪 **Data Analytics with Python** – NPTEL  
+- 🧪 **Data Analytics with Python** – NPTEL (IIT Roorkee)  
 - 🗣 **Customer Interactive Service Program** – WNS Cares Foundation
 
 ---
@@ -53,7 +54,7 @@
 ### 📫 Connect with Me
 
 - 🌐 [LinkedIn – @atikur-rehman](https://www.linkedin.com/in/mohd-atikur-rehman-804138294/)  
-- 💻 [GitHub – @atikur-rehman](https://github.com/atikur-rehman)  
+- 💻 [GitHub – @atikur-rehman](http://bit.ly/3Gkje1w+)  
 - 📧 atikurrehman96@gmail.com  
 - 📍 Based in Lucknow, India | Open to Remote/Onsite Roles
 
@@ -73,4 +74,3 @@ I'm open to internships, freelance, and full-time opportunities in the fields of
 
 Thanks for visiting my profile 🙏  
 Let's make data meaningful together!
-
