@@ -48,7 +48,7 @@ I’m a results-driven **Data Analyst** with hands-on experience in
 - Built **Isolation Forest anomaly detection** pipeline  
 - Visualized suspicious bytes & URL activity patterns  
 - *Tools:* Python, Pandas, Matplotlib  
-🔗 Repo: *(Add your link here)*  
+🔗 Repo: *(https://github.com/FierceSpartan7/Cybersecurity-Suspicious-Web-Threats)*  
 
 ---
 
@@ -57,7 +57,7 @@ I’m a results-driven **Data Analyst** with hands-on experience in
 - Built ML model with **82% accuracy** (Logistic Regression + EDA insights)  
 - Identified patterns around overtime, environment satisfaction & roles  
 - *Tools:* Python, Pandas, Seaborn  
-🔗 Repo: *(Add your link)*  
+🔗 Repo: *(https://github.com/FierceSpartan7/HR-Analytics-Employee-Attrition)*  
 
 ---
 
@@ -66,7 +66,7 @@ I’m a results-driven **Data Analyst** with hands-on experience in
 - TPOT AutoML improved prediction accuracy by **18%**  
 - Delivered ROC–AUC insights for donor campaign planning  
 - *Tools:* Python, Scikit-learn  
-🔗 Repo: *(Add your link)*  
+🔗 Repo: *(https://www.linkedin.com/in/atikurrehman-dataanalyst/details/projects/)*  
 
 ---
 
@@ -75,7 +75,7 @@ I’m a results-driven **Data Analyst** with hands-on experience in
 - Built interactive **Power BI dashboard** for performance tracking  
 - Highlighted lead-time issues & inventory patterns  
 - *Tools:* SQL, Power BI, Excel  
-🔗 Repo: *(Add your link)*  
+🔗 Repo: *(https://github.com/FierceSpartan7/mohd-atikur-rehman)*  
 
 ---
 
