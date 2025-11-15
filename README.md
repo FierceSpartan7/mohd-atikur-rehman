@@ -1,76 +1,106 @@
-<h1 align="center">Hi there, I'm Mohd Atikur Rehman 👋</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Microsoft & Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Data Storytelling | Open to Opportunities</h3>
+<h1 align="center">Hi there, I'm Mohd Atikur Rehman 👋🔥</h1>
+<h3 align="center">📊 Data Analyst | Microsoft + Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Cybersecurity & HR Analytics | Open to Opportunities</h3>
 
 ---
 
-### 📊 About Me
+### 🔍 About Me
 
-🎓 I'm a Data Analyst Fresher with strong foundations in **SQL, Python, Excel**, and **Data Visualization**  
-📌 Passionate about transforming data into insights that drive decision-making  
-✅ Completed 100+ SQL problems and earned a **5-Star Gold Badge on HackerRank**  
-📈 Hands-on experience through certifications and virtual internships in real-world business scenarios  
-📚 Recently completed **Career Essentials in Data Analysis by Microsoft & LinkedIn Learning** – built practical skills in Excel, analytical thinking, and business data storytelling  
-💡 Currently looking for full-time/entry-level **Data Analyst** opportunities
+💼 Data Analyst skilled in **Python, SQL, Excel, Power BI**, and **Data Visualization**  
+📊 Passionate about turning raw data into **meaningful insights & business decisions**  
+🏅 Solved 100+ SQL problems and earned a **5⭐ Gold Badge on HackerRank**  
+🛡️ Hands-on experience with **Cybersecurity, HR Analytics, and Predictive Modeling**  
+🎓 Completed **Microsoft Career Essentials** + Deloitte Virtual Internship + Intellipaat PGP  
+🚀 Currently seeking **Full-time Data Analyst / BI Analyst roles**
 
 ---
 
 ### 🧠 Skills & Tools
 
-- **Languages:** SQL, Python  
+- **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Visualization:** Power BI, Matplotlib, Seaborn, Excel Dashboards  
-- **Databases:** MS SQL Server, MySQL  
+- **Databases:** MySQL, SQL Server  
 - **Tools:** Excel (Advanced), Jupyter Notebook, VS Code, Git, GitHub  
-- **Soft Skills:** Problem Solving, Critical Thinking, Data Storytelling
-
----
-
-### 📜 Certifications
-
-- 🎖️ **SQL (Basic)** – HackerRank [Credential ID: 81D01AACDE0C](https://www.hackerrank.com/certificates/81d01aacde0c)  
-- ⭐ **5-Star Gold SQL Badge** – [HackerRank Profile](https://www.hackerrank.com/profile/atikurrehman96)  
-- 💼 **Data Analytics Virtual Internship** – Deloitte (Forage)  
-- 📊 **Career Essentials in Data Analysis** – Microsoft & LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/3b48de0281dcaa5ac21a87deda937e53de42918268d8541a1e9404f292bda01b)  
-- 🎓 **Postgraduate Program in Data Science** – Intellipaat  
-- 🧪 **Data Analytics with Python** – NPTEL (IIT Roorkee)  
-- 🗣 **Customer Interactive Service Program** – WNS Cares Foundation
+- **Soft Skills:** Critical Thinking, Problem Solving, Business Communication, Storytelling  
 
 ---
 
 ### 🚀 Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🧠 **Customer Segmentation Analysis** | Clustered customer groups using K-Means, visualized results for strategic insights | Python, Excel |
-| 📈 **Sales Performance Dashboard** | Built an Excel dashboard with slicers, PivotTables, charts to track KPIs | Excel |
-| 🛍️ **Online Store SQL Insights** | Queried and analyzed sales, revenue, and churn using advanced SQL queries | SQL |
-| 🎨 **Color Detection Tool** | Detected dominant colors in images using OpenCV, optimized with NumPy | Python (OpenCV) |
-| 📝 **Notepad GUI** | Developed a lightweight text editor app using Tkinter | Python |
-
-📂 More projects coming soon...
+#### 🛡️ Cybersecurity Threat Analytics – AWS CloudWatch Logs  
+- Processed **282 network traffic logs** to detect suspicious patterns  
+- Built anomaly detection model using **Isolation Forest**  
+- Visualized request spikes, byte patterns, and flagged malicious activities  
+- **Tools:** Python, Pandas, Matplotlib  
+🔗 GitHub Repo: *(Add your repo link here)*  
 
 ---
 
-### 📫 Connect with Me
-
-- 🌐 [LinkedIn – @atikur-rehman](https://www.linkedin.com/in/mohd-atikur-rehman-804138294/)  
-- 💻 [GitHub – @atikur-rehman](http://bit.ly/3Gkje1w+)  
-- 📧 atikurrehman96@gmail.com  
-- 📍 Based in Lucknow, India | Open to Remote/Onsite Roles
+#### 👥 HR Analytics – IBM Employee Attrition  
+- Analyzed **1,470 employee records** to identify attrition factors  
+- Built predictive model achieving **82% accuracy**  
+- Conducted EDA to uncover insights (overtime, job satisfaction, tenure)  
+- **Tools:** Python, Pandas, Seaborn  
+🔗 GitHub Repo: *(Add link)*  
 
 ---
 
-### 🌟 Let's Collaborate
+#### 🩸 Blood Donation Prediction – MedTourEasy  
+- Worked with **5,000+ donor histories**  
+- Built Logistic Regression & TPOT model improving accuracy by **18%**  
+- Automated data cleaning + delivered ROC–AUC visual report  
+- **Tools:** Python, Scikit-learn  
+🔗 GitHub Repo: *(Add link)*  
 
-I'm open to internships, freelance, and full-time opportunities in the fields of:
+---
 
+#### 📦 Supply Chain KPI & Inventory Analysis  
+- Analyzed **10,000+ rows** of supply chain data  
+- Identified delay patterns, supplier performance issues  
+- Designed **Interactive Power BI dashboard**  
+- **Tools:** SQL, Power BI, Excel  
+🔗 GitHub Repo: *(Add link)*  
+
+---
+
+### 📜 Certifications
+
+- **Microsoft Career Essentials in Data Analysis**  
+- **SQL 5⭐ Gold Badge – HackerRank**  
+- **Deloitte Data Analytics Virtual Internship**  
+- **PGP in Data Science – Intellipaat**  
+- **Data Analytics with Python – IIT Roorkee**  
+- **Google Data Analytics (in progress)**  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FierceSpartan7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceSpartan7&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 LinkedIn: https://linkedin.com/in/atikurrehman-dataanalyst  
+- 💻 GitHub: https://github.com/FierceSpartan7  
+- 📧 Email: atikurrehman96@gmail.com  
+- 📍 Hyderabad, India  
+
+---
+
+### ⭐ Let's Collaborate
+
+I’m open to opportunities in:  
 - Data Analytics  
 - Business Intelligence  
-- Data Visualization  
-- Reporting & Dashboards  
-- Data Cleaning & Preparation  
+- Dashboarding  
+- EDA & Visualization  
+- Reporting  
 
-> “Data is the new oil. I help refine it.”
+> "Data becomes powerful when it tells a story — I turn numbers into narratives."
 
-Thanks for visiting my profile 🙏  
-Let's make data meaningful together!
