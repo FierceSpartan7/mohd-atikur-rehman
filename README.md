@@ -1,106 +1,117 @@
-<h1 align="center">Hi there, I'm Mohd Atikur Rehman 👋🔥</h1>
-<h3 align="center">📊 Data Analyst | Microsoft + Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Cybersecurity & HR Analytics | Open to Opportunities</h3>
+<h1 align="center">👋 Hi, I'm <b>Mohd Atikur Rehman</b></h1>
+<h3 align="center">📊 Data Analyst | Microsoft & Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Cybersecurity & HR Analytics | Open to Opportunities</h3>
 
 ---
 
-### 🔍 About Me
+## 🔍 About Me
 
-💼 Data Analyst skilled in **Python, SQL, Excel, Power BI**, and **Data Visualization**  
-📊 Passionate about turning raw data into **meaningful insights & business decisions**  
-🏅 Solved 100+ SQL problems and earned a **5⭐ Gold Badge on HackerRank**  
-🛡️ Hands-on experience with **Cybersecurity, HR Analytics, and Predictive Modeling**  
-🎓 Completed **Microsoft Career Essentials** + Deloitte Virtual Internship + Intellipaat PGP  
-🚀 Currently seeking **Full-time Data Analyst / BI Analyst roles**
+I’m a results-driven **Data Analyst** with hands-on experience in  
+**Python, SQL, Power BI, Excel**, and **Predictive Analytics**.
 
----
-
-### 🧠 Skills & Tools
-
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Visualization:** Power BI, Matplotlib, Seaborn, Excel Dashboards  
-- **Databases:** MySQL, SQL Server  
-- **Tools:** Excel (Advanced), Jupyter Notebook, VS Code, Git, GitHub  
-- **Soft Skills:** Critical Thinking, Problem Solving, Business Communication, Storytelling  
+✔ Strong foundation in **EDA, dashboarding, KPI reporting, and ML-based insights**  
+✔ Experience across **Cybersecurity, HR Analytics, and Supply Chain** domains  
+✔ Completed **100+ SQL challenges** → earned **HackerRank 5⭐ Gold Badge**  
+✔ Certified by **Microsoft, Deloitte, IIT Roorkee, Intellipaat**  
+✔ Actively seeking **Data Analyst • BI Analyst • Reporting Analyst** roles  
 
 ---
 
-### 🚀 Projects
+## 🧠 Skills & Toolset
 
-#### 🛡️ Cybersecurity Threat Analytics – AWS CloudWatch Logs  
-- Processed **282 network traffic logs** to detect suspicious patterns  
-- Built anomaly detection model using **Isolation Forest**  
-- Visualized request spikes, byte patterns, and flagged malicious activities  
-- **Tools:** Python, Pandas, Matplotlib  
-🔗 GitHub Repo: *(Add your repo link here)*  
+### **Programming & Data**
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- SQL (MySQL, SQL Server)
 
----
+### **Visualization & Reporting**
+- Power BI  
+- Excel Dashboards  
+- Matplotlib & Seaborn  
 
-#### 👥 HR Analytics – IBM Employee Attrition  
-- Analyzed **1,470 employee records** to identify attrition factors  
-- Built predictive model achieving **82% accuracy**  
-- Conducted EDA to uncover insights (overtime, job satisfaction, tenure)  
-- **Tools:** Python, Pandas, Seaborn  
-🔗 GitHub Repo: *(Add link)*  
+### **Tools**
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
 
----
-
-#### 🩸 Blood Donation Prediction – MedTourEasy  
-- Worked with **5,000+ donor histories**  
-- Built Logistic Regression & TPOT model improving accuracy by **18%**  
-- Automated data cleaning + delivered ROC–AUC visual report  
-- **Tools:** Python, Scikit-learn  
-🔗 GitHub Repo: *(Add link)*  
+### **Core Competencies**
+- EDA & Data Cleaning  
+- Dashboarding & BI Reporting  
+- Predictive Modeling  
+- Statistical Analysis  
+- Critical Thinking & Storytelling  
 
 ---
 
-#### 📦 Supply Chain KPI & Inventory Analysis  
-- Analyzed **10,000+ rows** of supply chain data  
-- Identified delay patterns, supplier performance issues  
-- Designed **Interactive Power BI dashboard**  
-- **Tools:** SQL, Power BI, Excel  
-🔗 GitHub Repo: *(Add link)*  
+## 🚀 Featured Projects
+
+### 🛡️ **Cybersecurity Anomaly Detection – AWS CloudWatch Logs**  
+- Processed **282+ traffic logs** to analyze incoming/outgoing patterns  
+- Built **Isolation Forest anomaly detection** pipeline  
+- Visualized suspicious bytes & URL activity patterns  
+- *Tools:* Python, Pandas, Matplotlib  
+🔗 Repo: *(Add your link here)*  
 
 ---
 
-### 📜 Certifications
-
-- **Microsoft Career Essentials in Data Analysis**  
-- **SQL 5⭐ Gold Badge – HackerRank**  
-- **Deloitte Data Analytics Virtual Internship**  
-- **PGP in Data Science – Intellipaat**  
-- **Data Analytics with Python – IIT Roorkee**  
-- **Google Data Analytics (in progress)**  
+### 👥 **HR Analytics – Employee Attrition (IBM Dataset)**  
+- Analyzed **1,470 employee records** to uncover attrition drivers  
+- Built ML model with **82% accuracy** (Logistic Regression + EDA insights)  
+- Identified patterns around overtime, environment satisfaction & roles  
+- *Tools:* Python, Pandas, Seaborn  
+🔗 Repo: *(Add your link)*  
 
 ---
 
-### 📊 GitHub Stats
+### 🩸 **Blood Donation Prediction – MedTourEasy**  
+- Modeled **5,000+ donor records** to predict donation probability  
+- TPOT AutoML improved prediction accuracy by **18%**  
+- Delivered ROC–AUC insights for donor campaign planning  
+- *Tools:* Python, Scikit-learn  
+🔗 Repo: *(Add your link)*  
+
+---
+
+### 📦 **Supply Chain KPI Dashboard & SQL Insights**  
+- Analyzed **10,000+ supply chain rows** for bottlenecks & delays  
+- Built interactive **Power BI dashboard** for performance tracking  
+- Highlighted lead-time issues & inventory patterns  
+- *Tools:* SQL, Power BI, Excel  
+🔗 Repo: *(Add your link)*  
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Career Essentials in Data Analysis  
+- SQL 5⭐ Gold Badge – HackerRank  
+- Deloitte Data Analytics Virtual Internship (Forage)  
+- PGP in Data Science – Intellipaat  
+- Data Analytics with Python – IIT Roorkee  
+- Google Data Analytics (ongoing)  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FierceSpartan7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceSpartan7&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FierceSpartan7&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceSpartan7&layout=compact&theme=radical" height="160px" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect with Me
 
-- 🌐 LinkedIn: https://linkedin.com/in/atikurrehman-dataanalyst  
-- 💻 GitHub: https://github.com/FierceSpartan7  
-- 📧 Email: atikurrehman96@gmail.com  
-- 📍 Hyderabad, India  
+📌 **LinkedIn:** https://linkedin.com/in/atikurrehman-dataanalyst  
+📌 **GitHub:** https://github.com/FierceSpartan7  
+📌 **Email:** atikurrehman96@gmail.com  
+📍 Hyderabad, India  
 
 ---
 
-### ⭐ Let's Collaborate
+## ⭐ Let's Collaborate
 
-I’m open to opportunities in:  
-- Data Analytics  
-- Business Intelligence  
-- Dashboarding  
-- EDA & Visualization  
-- Reporting  
+I’m open to projects and roles in:  
+**Data Analytics | BI Reporting | Dashboarding | Predictive Analytics | Business Insights**
 
-> "Data becomes powerful when it tells a story — I turn numbers into narratives."
+> *“Data becomes powerful when it tells a story — I transform numbers into decisions.”*
 
