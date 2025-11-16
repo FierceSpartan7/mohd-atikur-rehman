@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4466bf8-4577-4144-983c-f7e94fb8676c" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm <b>Mohd Atikur Rehman</b></h1>
 <h3 align="center">📊 Data Analyst | Microsoft & Deloitte Certified | SQL 5⭐ HackerRank | Python • Power BI • Excel | Cybersecurity & HR Analytics | Open to Opportunities</h3>
 
